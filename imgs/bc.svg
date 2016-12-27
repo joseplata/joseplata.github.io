@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="220px" height="132px" viewBox="0 0 220 132" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41.2 (35397) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 14</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="6" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.311735734 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" font-family="HoeflerText-BoldSC, Hoefler Text" font-weight="bold">
+        <g id="Group-14" filter="url(#filter-1)" transform="translate(8.000000, -1.000000)" fill="#2E2826">
+            <text id="The" font-size="49.0392004" letter-spacing="-0.0271576233">
+                <tspan x="100.653612" y="46">The</tspan>
+            </text>
+            <text id="Club" font-size="83.5992004" letter-spacing="-0.0462967515">
+                <tspan x="0" y="117.88">Club</tspan>
+            </text>
+            <text id="Book" font-size="50.4792004" letter-spacing="-0.0279550865">
+                <tspan x="67.8414777" y="75.36">Book</tspan>
+            </text>
+        </g>
+    </g>
+</svg>
