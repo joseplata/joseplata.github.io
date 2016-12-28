@@ -372,7 +372,7 @@ button {
   bottom: 0; }
   #footer .social-icons-footer ul li {
     display: inline;
-    padding-right: 2rem; }
+    padding: 0 2rem; }
     #footer .social-icons-footer ul li i {
       transition: 0.5s; }
       #footer .social-icons-footer ul li i:hover {
