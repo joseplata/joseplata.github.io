@@ -284,20 +284,13 @@ p {
   padding-top: 1rem;
   padding-bottom: 0.5rem; }
 
-.introduction {
-  background: url("../imgs/backg.png") center no-repeat;
-  background-size: 70%; }
-  .introduction .information {
-    padding-top: 30vh; }
-  .introduction .social-icons li {
-    display: inline;
-    padding: 2rem; }
-  .introduction .mini-bio::after {
-    content: "🗽"; }
-
-.project-list {
-  background: url("../imgs/work.png") center no-repeat;
-  background-size: 100%; }
+.introduction .information {
+  padding-top: 30vh; }
+.introduction .social-icons li {
+  display: inline;
+  padding: 2rem; }
+.introduction .mini-bio::after {
+  content: "🗽"; }
 
 .project {
   padding-bottom: 1rem; }
@@ -309,10 +302,6 @@ p {
     transition: all 0.2s ease-out 0s; }
   .project img {
     width: 100%; }
-
-.blog-section {
-  background: url("../imgs/blog.png") center no-repeat;
-  background-size: 40%; }
 
 .project-container {
   padding-bottom: 0; }
@@ -469,5 +458,3 @@ button {
 
   .hidden-sm {
     display: block; } }
-
-/*# sourceMappingURL=style.css.map */
